@@ -1,7 +1,7 @@
 # SER
 An approach to predict speech emotions from clips of audio using deep learning.
 
-To learn more about the approach: [link]
+To learn more about the approach: [article](https://data-colab-tn.medium.com/speech-emotion-recognition-f4b45f3fbfa5)
 
 # Folders
 **datasets**: contains data downloaded from kaggle datasets (data will be downloaded in feature_extraction notebook)
